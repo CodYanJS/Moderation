@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Moderation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Moderation</output-path>
+    <root id="root">
+      <element id="archive" name="Moderation.jar">
+        <element id="module-output" name="Moderation" />
+      </element>
+      <element id="library" level="project" name="Spigot-1.10.2" />
+    </root>
+  </artifact>
+</component>

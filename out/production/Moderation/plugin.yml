@@ -1,0 +1,8 @@
+name: Mod
+main: net.coddev.mod.Main
+version: 0.1
+description: Moderation
+author: FrictiaTeam
+commands:
+  mod:
+  report:
